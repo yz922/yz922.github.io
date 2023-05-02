@@ -1,0 +1,41 @@
+header h1 {
+  background-color: royalblue;
+}
+
+.first-article {
+  background-color: blueviolet;
+}
+#Présentation {
+  background-color: white;
+}
+
+.second-article {
+  background-color: rgb(129, 157, 78);
+}
+#Formation 
+{
+  background-color: darkred;
+}
+
+body{
+background-color:grey ;
+}
+h2{
+background-color:rgb(129,157,78);
+}
+
+.second-article {
+  background-color: rgb(129, 157, 78);
+}
+#Experience
+{
+  background-color: greenyellow;
+}
+
+.third-article {
+  background-color: rgb(500, 157, 78);
+}
+#Divers
+{
+  background-color: yellow;
+}
